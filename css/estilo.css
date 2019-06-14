@@ -48,7 +48,9 @@ p {
 #autor {
     /* a # cria uma id */
     font-family: 'ubuntu';
-    font-size: 14pt;
+    font-size: 24pt;
     font-weight: bold;
     text-align: right;
+    
+    color: rgba(255, 0, 0, 0.5);
 }
