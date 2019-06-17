@@ -1,6 +1,8 @@
 * {
     margin: 0;
+    /*margin é o espaçamento externo*/
     padding: 0;
+    /*padding  é o espaçamento interno*/
 }
 
 #corpo {
@@ -14,8 +16,14 @@
 
 #conteudo {
     background-color: green;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+   
 }
 
 #rodape {
     background-color: blue;
+    
 }
