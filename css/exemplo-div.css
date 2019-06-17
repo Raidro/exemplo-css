@@ -1,19 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
 #corpo {
+    /* por padrão se não colocar uma extensão é "px"  */
     background-color: black;
-    
 }
 
 #cabecalho {
     background-color: red;
-
 }
 
 #conteudo {
     background-color: green;
-
 }
 
 #rodape {
     background-color: blue;
-
 }
