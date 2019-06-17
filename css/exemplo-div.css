@@ -8,6 +8,8 @@
 #corpo {
     /* por padrão se não colocar uma extensão é "px"  */
     background-color: black;
+    width: 500px;
+    margin: auto;
 }
 
 #cabecalho {
