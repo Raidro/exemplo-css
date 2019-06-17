@@ -18,14 +18,23 @@
 
 #conteudo {
     background-color: green;
-    margin-top: 50px;
-    margin-bottom: 50px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-   
+    height: 400px;
+    /* padding-top: 5px; */
 }
 
 #rodape {
     background-color: blue;
-    
+}
+
+#menu {
+    background-color: gold;
+    /* margin: 5px; */
+    float: left;
+    height: 370px;
+}
+
+#texto {
+    background-color: blueviolet;
+    /* margin: 5px; */
+    height: 370px;
 }
