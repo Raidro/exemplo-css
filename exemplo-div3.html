@@ -8,11 +8,37 @@
     <title>Exemplo div 3</title>
 
     <style>
+        #container {
+            background-color: blue;
+            width: 400px;
+            height: 400px;
+            position: relative;
+            left: 50px;
+            top: 20px; 
+        }
+
+        #dv1 {
+            background-color: red;
+            width: 150px;
+            height: 300px;
+            position: relative;
+            left: 50px;
+            top: 20px;
+        }
+
+        #dv2 {
+            background-color: green;
+            width: 150px;
+            height: 300px;
+            position: relative;
+            /* o absolute só funciona se o pai for relativo */
+            top: 10px;
+        }
     </style>
 </head>
 
 <body>
-    <div id "container">
+    <div id="container">
 
         <div id="dv1">
 
